@@ -21,7 +21,11 @@ https://github.com/IcyEndymion004/Slapper-Plus-Updated
 **Slapper Slap Back**
 
 
+https://github.com/IcyEndymion004/Slapper-Slap-back-Updated
+
 
 **Slapper Cooldown**
+
+
 
 
