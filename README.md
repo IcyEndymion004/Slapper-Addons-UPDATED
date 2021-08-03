@@ -5,18 +5,21 @@ Create An Issue If you need help with anything and ill try my best
 
 Create a pull request if you have an update or new stuff for the addons
 
-#Slapper
+**Slapper**
+```
 
 https://github.com/IcyEndymion004/slapper-Updated
 
-#Slapper Plus
+```
+
+**Slapper Plus**
 
 
 
-#Slapper Slap Back
+**Slapper Slap Back**
 
 
 
-#Slapper Cooldown
+**#Slapper Cooldown**
 
 
