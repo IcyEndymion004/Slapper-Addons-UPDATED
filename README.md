@@ -20,6 +20,6 @@ https://github.com/IcyEndymion004/slapper-Updated
 
 
 
-**#Slapper Cooldown**
+**Slapper Cooldown**
 
 
